@@ -16,7 +16,11 @@ A machine learning based web application for recommending suitable crops and fer
 
 ## 🖼️ Screenshots
 
+![Home Page](Screenshot%202025-05-16%20220309.png)
+*Home page of the app*
 
+![Prediction Example](Screenshot%202025-05-16%20220335.png)
+*Prediction result example*
 
 ## 🛠️ How to Run
 
