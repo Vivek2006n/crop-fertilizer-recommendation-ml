@@ -22,8 +22,8 @@ A machine learning based web application for recommending suitable crops and fer
 
 1. **Clone this repository:**
    ```
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Vivek2006n/crop-fertilizer-recommendation-ml.git
+   cd crop-fertilizer-recommendation-ml
    ```
 2. **Install dependencies:**
    ```
